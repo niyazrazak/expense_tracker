@@ -11,7 +11,7 @@ export const Expenses = () => {
 
             <TabPanels>
                 <TabPanel>
-                    <p><ExpenseListTab/></p>
+                    <ExpenseListTab/>
                 </TabPanel>
                 <TabPanel>
                     <p>two!</p>
